@@ -1,0 +1,6 @@
+{
+	"name": "shakeepers/page-contributors",
+	"description": "Fork of PageContributors extension for MediaWiki",
+	"license": "proprietary",
+	"type": "mediawiki-extension"
+}
